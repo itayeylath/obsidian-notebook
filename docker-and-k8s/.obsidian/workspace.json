@@ -11,12 +11,8 @@
             "id": "daae3a82f28d3eda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,8 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "daae3a82f28d3eda",
+  "active": "bf7b3d432da8a44d",
   "lastOpenFiles": [
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Pasted image 20240329165203.png",
+    "Pasted image 20240329165149.png",
+    "Pasted image 20240329140600.png",
+    "Pasted image 20240329140556.png",
+    "docker-and-kubernetes/cheat sheet.md",
+    "docker-and-kubernetes/Docker & Kubernetes.canvas",
+    "docker-and-kubernetes",
     "Welcome.md"
   ]
 }
