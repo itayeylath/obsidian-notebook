@@ -1,1 +1,3 @@
-# obsidian-notebook
+# Obsidian Notebook
+
+## Docker & Kubernetes
