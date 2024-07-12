@@ -4,20 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "463a0e3e605a01c3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "daae3a82f28d3eda",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "41090ddd0a70ecaa",
         "type": "tabs",
         "children": [
@@ -25,8 +11,15 @@
             "id": "b971c27f8424a67f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "docker-and-kubernetes/Docker & Kubernetes.canvas",
+                "viewState": {
+                  "x": 658,
+                  "y": 160,
+                  "zoom": -1.4075195299948275
+                }
+              }
             }
           }
         ]
@@ -95,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docker-and-kubernetes/Docker & Kubernetes.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docker-and-kubernetes/Docker & Kubernetes.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "docker-and-kubernetes/Docker & Kubernetes.canvas"
               }
             }
           }
@@ -154,18 +149,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf7b3d432da8a44d",
+  "active": "b971c27f8424a67f",
   "lastOpenFiles": [
-    "Untitled 2.canvas",
     "Untitled 1.canvas",
+    "Untitled 2.canvas",
     "Untitled.canvas",
-    "Pasted image 20240329165203.png",
-    "Pasted image 20240329165149.png",
-    "Pasted image 20240329140600.png",
-    "Pasted image 20240329140556.png",
-    "docker-and-kubernetes/cheat sheet.md",
     "docker-and-kubernetes/Docker & Kubernetes.canvas",
-    "docker-and-kubernetes",
-    "Welcome.md"
+    "Image build from layers.png",
+    "One image - multiple containers.png",
+    "docker-and-kubernetes/cheat sheet.md",
+    "Pasted image 20240329140556.png",
+    "Welcome.md",
+    "Pasted image 20240329165149.png",
+    "docker-and-kubernetes"
   ]
 }
